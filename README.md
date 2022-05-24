@@ -17,3 +17,10 @@
   - [Antenna Splitter for AIS and VHF Radi](https://www.ebay.com/itm/134086687016?chn=ps&norover=1&mkevt=1&mkrid=711-117182-37290-0&mkcid=2&itemid=134086687016&targetid=1645685074528&device=c&mktype=&googleloc=9032127&poi=&campaignid=16730423415&mkgroupid=135815925780&rlsatarget=pla-1645685074528&abcId=9300841&merchantid=6296724&gclid=Cj0KCQjwpv2TBhDoARIsALBnVnlpNXV8YxxkN51bb4hX3CrA1cgjT_03lYyzIdlooxhGf1fg7Qbxrl8aAmaIEALw_wcB)
   - [Glomex® RA201 - AIS Antenna Splitter](https://www.boatid.com/glomex/ais-antenna-splitter-mpn-ra201.html?view=740584&gclid=Cj0KCQjwpv2TBhDoARIsALBnVnncWo45SB2ZFkEDXB9gEVBf345fiKemZkSuyDcl22R4LGS5Mct-yLAaAiojEALw_wcB)
   - [Glomex Vhf/Ais/Radio Splitter - 12vdc](https://www.hodgesmarine.com/glmra201-glomex-vhfaisradio-splitter-12vdc.html?gclid=Cj0KCQjwpv2TBhDoARIsALBnVnlfKt3mCZU99j3nuVmCc5jY7xSgDSMYtTOYWaXfQu94XOrih66_QOEaAizyEALw_wcB)
+
+## Arduino References
+- [UDP send/recieve](https://forum.arduino.cc/t/arduino-nano-33-iot-coms/637627/2)
+- [UDP send](https://forum.arduino.cc/t/how-would-you-send-data-from-an-nano-33-iot-to-a-computer/902710/16)
+- [Sending Data over MQTT](https://docs.arduino.cc/tutorials/uno-wifi-rev2/uno-wifi-r2-mqtt-device-to-device)
+- [MQTT from Arduino to Raspberry Pi](https://forum.arduino.cc/t/arduino-and-raspberry-pi-communicate-over-wifi/905148)
+- [WiFiNINA Library Examples](https://docs.arduino.cc/tutorials/communication/wifi-nina-examples)
