@@ -11,6 +11,7 @@
 
 ## Products
 - AIS Sytems
+  - [DIY AIS Antenna](https://pocketmariner.com/2019/01/25/simple-3db-dipole-vhf-ais-marine-aerial-co-ax-cable/)
   - [dAISy USB AIS Receiver](https://www.tindie.com/products/astuder/daisy-ais-receiver/)
   - [Spillitter or dedicated antenna?](https://support.vespermarine.com/hc/en-us/articles/360001288676-Should-I-use-a-splitter-or-a-dedicated-VHF-antenna-#:~:text=There%20are%20trade%2Doff's%20between,band%20where%20AIS%20is%20located.)
   - [Shakespeare 5257-S Antenna Splitter f/VHF Radio, AIS Receiver & AM/FM Stereo](https://www.amazon.com/Shakespeare-5257-S-Antenna-Splitter-Receiver/dp/B010F6JK86/ref=asc_df_B010F6JK86/?tag=hyprod-20&linkCode=df0&hvadid=385196898193&hvpos=&hvnetw=g&hvrand=11879426131907968495&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032127&hvtargid=pla-823140104103&psc=1&tag=&ref=&adgrpid=78225421626&hvpone=&hvptwo=&hvadid=385196898193&hvpos=&hvnetw=g&hvrand=11879426131907968495&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032127&hvtargid=pla-823140104103)
