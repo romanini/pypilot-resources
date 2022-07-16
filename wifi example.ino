@@ -105,9 +105,14 @@ int process_cmd(char buffer[])
     }
     unsigned int cur_mills = millis();
     time_mot = cur_mills + value*100;
-  
+    client.println("0 ok");
     
   }
+  else
+  {
+    client.println("-1 Command not understood");
+  }
+	
 }
 
 void loop() {
